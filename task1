@@ -1,0 +1,9 @@
+function mijin(a) 
+{ s=0;
+for (i=0; i<a.length; i++) 
+{s=s+a[I] 
+} 
+console.log(s/a.length);
+}
+mijin([1,2,3,4,5]);
+
